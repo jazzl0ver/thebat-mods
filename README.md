@@ -10,7 +10,7 @@
 
 1. Закройте The Bat!
 2. Сохраните оригинальный `TheBat64.exe`
-3. Примените патч: `.\patch_thebat12_all.ps1 "C:\path\to\TheBat64.exe"`
+3. Примените патч: `.\patch_thebat-12.3.1-64bits.ps1 "C:\path\to\TheBat64.exe"`
 4. Запустите The Bat!
 
 > После модификации оригинальная цифровая подпись EXE недействительна.
